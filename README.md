@@ -23,3 +23,5 @@ HOW TO USE
 Open the application in your browser.
 Click the "Get Quote" button to display a new random quote.
 Enjoy a fresh new quote every time you click the button.
+
+https://bridgetadeyemi.github.io/Random-Quotes-Generator/
